@@ -249,22 +249,9 @@
         android:cropToPadding="false"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.072"
+        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/em8rhamp5yy" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="177dp"
-        android:layout_height="297dp"
-        android:layout_marginTop="48dp"
-        android:layout_marginEnd="6dp"
-        android:scaleType="centerCrop"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.953"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/dpsa49vlkle" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
